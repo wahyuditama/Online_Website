@@ -56,6 +56,27 @@
   font-size: 40px;
 }
 
+.layer-footer {
+  height: 300px;
+}
+
+.footer {
+  background-color: rgb(29, 24, 112);
+  margin-top: 100px;
+  padding-top: 100px;
+}
+
+.footer .row {
+  margin-right: 100px;
+  color: rgb(245, 8, 8);
+}
+
+.icons {
+  display: flex;
+  width: 12rem;
+  height: auto;
+}
+
 .section-9 {
   height: 230px;
 }
@@ -108,6 +129,10 @@
 
   .layer-9 .col-lg-6 {
     margin-top: 40px;
+  }
+
+  .layer-10 {
+    margin-top: 200px;
   }
 
   .section-1 h1 {
