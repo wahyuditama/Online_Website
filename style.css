@@ -8,6 +8,18 @@
   height: 22rem;
 }
 
+.layer-2 {
+  height: 26rem;
+}
+
+.layer-pill {
+  background-color: rgb(206, 204, 253);
+}
+
+.border-costum {
+  padding: 38px;
+}
+
 .content-4 .carousel-item {
   height: 26rem;
 }
@@ -29,6 +41,14 @@
 
 .rounded-circle {
   border-radius: 50%;
+}
+
+.content-2 {
+  width: 12rem;
+}
+
+.container-costum {
+  max-width: 1200px;
 }
 
 .col-lg-7 h1 {
@@ -99,6 +119,23 @@
     order: 1;
   }
 
+  .container-costum {
+    max-width: 860px;
+  }
+
+  .border-costum {
+    padding: 30px;
+  }
+
+  .content-2 a {
+    width: 10rem;
+    height: auto;
+  }
+
+  .content-2 {
+    width: 8rem;
+  }
+
   .content-3 h5 {
     margin-left: auto;
     margin-right: auto;
@@ -120,6 +157,10 @@
 
   .content-7 h1 {
     font-size: 28px;
+  }
+
+  .layer-2 {
+    height: 20rem;
   }
 
   .layer-8 {
