@@ -114,6 +114,11 @@ body {
   .content-7 h1 {
     font-size: 60px;
   }
+
+  .card-content4 {
+    width: 200px;
+    height: 600px;
+  }
 }
 
 /* Medium Display */
@@ -163,6 +168,11 @@ body {
     display: none;
   }
 
+  .card-content4 {
+    width: 20rem;
+    height: auto;
+  }
+
   .content-7 h1 {
     font-size: 28px;
   }
@@ -181,7 +191,7 @@ body {
   }
 
   .layer-10 {
-    margin-top: 200px;
+    margin-top: 20px;
   }
 
   .section-1 h1 {
