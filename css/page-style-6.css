@@ -1,13 +1,27 @@
 * {
-  margin: 0;
   padding: 0;
+  margin: 0;
 }
 
-.section {
-  display: none;
-  padding: 100px 0;
-  height: 100vh;
+.footer {
+  background-color: rgb(29, 24, 112);
+  margin-top: 100px;
+  padding-top: 100px;
 }
-.section.active {
-  display: block;
+
+.card {
+  width: 22rem;
+  height: auto;
+}
+
+/* large */
+
+/* medium */
+@media (min-width: 760px) and (max-width: 992px) {
+  .col-lg-12 {
+    width: 100%;
+  }
+  .text-item a {
+    font-size: 12px;
+  }
 }

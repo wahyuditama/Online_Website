@@ -15,3 +15,10 @@
   width: 28rem;
   height: 24rem;
 }
+
+@media (min-width: 760px) and (max-width: 992px) {
+  .content {
+    padding-top: 3rem;
+    margin-top: 2rem;
+  }
+}

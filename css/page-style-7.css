@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* Landing-Page */
+
+.landing {
+  display: flex;
+  justify-content: space-around;
+  padding: 1rem;
+}
+.landing a {
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+}
+.landing a:hover {
+  background-color: #2128f7;
+}
+.content {
+  display: none;
+  padding: 2rem;
+}
+.content.active {
+  display: block;
+}
+
+.card {
+  width: 22rem;
+}
+
+.footer {
+  background-color: rgb(29, 24, 112);
+  margin-top: 100px;
+  padding-top: 100px;
+}
+/*  end */
